@@ -1,4 +1,13 @@
-#welcome{
-  font-size: 48px;
-  color: rgb(88, 196, 234);
+
+*{
+  background-color:#fff8f0;
+  font-family: arial;
+
+}
+
+#title{
+  font-size: 90px;
+  font-family: 'Satisfy', cursive;
+  align-content: center;
+  color: #5c061d;
 }
