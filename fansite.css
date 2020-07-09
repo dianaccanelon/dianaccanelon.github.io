@@ -11,3 +11,8 @@
   text-align: center;
   color: #5c061d;
 }
+
+.container{
+  width:700px;
+  margin: 0 auto;
+}
