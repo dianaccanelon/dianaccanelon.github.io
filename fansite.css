@@ -7,12 +7,14 @@
 
 nav-links-right ul{
   list-style-type: none;
+  text-decoration: none;
 }
 
 nav-links-right a{
   padding: 10px;
-  text-decoration: none;
-  display:inline-block;float:right;
+  display:inline-block;
+  position: right;
+  /*float:right;*/
   font-size:13px;
   font-family: arial;
   color: block;
