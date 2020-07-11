@@ -11,24 +11,31 @@
 
 /*Headers*/
 
-#intro p{
-  font-family: "Open Sans", "sans-serif";
-  font-size:40px;
-}
-
 #italia{
   font-family:"Reenie Beanie", "cursive";
   font-size: 85px;
   padding-left: 50px;
 }
 
+#intro p{
+  font-family: "Open Sans", "sans-serif";
+  font-size:18px;
+}
+
+#intro-2 p{
+  font-family: "Open Sans", "sans-serif";
+  font-size:18px;
+}
+
+/*Body*/
 
 .section-heading{
   font-family:"Raleway", "sans-serif";
-  font-size: 20px;
+  font-weight: bold;
+  font-size: 22px;
 }
 
 .info {
   font-family: "Open Sans", "sans-serif";
-  font-size:40px;
+  font-size:18px;
 }
