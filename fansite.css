@@ -23,8 +23,7 @@
 #intro p{
   font-family: "Open Sans";
   font-size:14px;
-  float: right;
-  padding-left: 5px;
+  justify-content: center;
 }
 
 
@@ -32,13 +31,16 @@
 
 .section-heading{
   font-family:"Raleway";
-  font-weight: bold;
+  font-weight: bolder;
   font-size: 22px;
+  padding-top: 4px;
   
 }
 
 .info {
   font-family: "Open Sans";
   font-size:14px;
+  justify-content: center;
+  padding-bottom: 15px;
 }
 
