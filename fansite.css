@@ -19,17 +19,18 @@
 #italia{
   font-family:"Reenie Beanie";
   font-size: 85px;
-  padding-left: 50px;
+  float: right;
+  padding-right: 50px;
 }
 
 #intro p{
   font-family: "Open Sans";
-  font-size:18px;
+  font-size:12px;
 }
 
 #intro-2 p{
   font-family: "Open Sans";
-  font-size:18px;
+  font-size:12px;
 }
 
 /*Body*/
@@ -42,5 +43,5 @@
 
 .info {
   font-family: "Open Sans";
-  font-size:18px;
+  font-size:12px;
 }
