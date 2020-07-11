@@ -4,38 +4,43 @@
 }
 
 /*Nav Bar*/
+.nav-container{
+  width:650px;
+  float:left;
+}
 
 #webname{
   text-decoration: none;
+  padding-left: 3px;
 }
 
 /*Headers*/
 
 #italia{
-  font-family:"Reenie Beanie", "cursive";
+  font-family:"Reenie Beanie";
   font-size: 85px;
   padding-left: 50px;
 }
 
 #intro p{
-  font-family: "Open Sans", "sans-serif";
+  font-family: "Open Sans";
   font-size:18px;
 }
 
 #intro-2 p{
-  font-family: "Open Sans", "sans-serif";
+  font-family: "Open Sans";
   font-size:18px;
 }
 
 /*Body*/
 
 .section-heading{
-  font-family:"Raleway", "sans-serif";
+  font-family:"Raleway";
   font-weight: bold;
   font-size: 22px;
 }
 
 .info {
-  font-family: "Open Sans", "sans-serif";
+  font-family: "Open Sans";
   font-size:18px;
 }
