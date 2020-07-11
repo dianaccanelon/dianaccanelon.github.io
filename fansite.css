@@ -1,8 +1,13 @@
 
 *{
-  background-color:whitesmoke;
+  
   font-family: arial;
 
+}
+
+.nav-container{
+  width:600px;
+  /*margin: 0 auto;*/
 }
 
 nav-links-right ul{
@@ -32,16 +37,9 @@ nav{
 
 
 
-.nav-left ul{
-  text-decoration: none;
-  font-size: 20px;
-  font-family: 'Satisfy', cursive;
-  display:inline-block;
-  float: left;
-  color: #5c061d;
-}
 
-/*#title{
+
+/*#title{   //dont remove for font
   font-size: 90px;
   font-family: 'Satisfy', cursive;
   text-align: center;
@@ -49,6 +47,6 @@ nav{
 }*/
 
 .container{
-  width:500px;
+  width:600px;
   margin: 0 auto;
 }
