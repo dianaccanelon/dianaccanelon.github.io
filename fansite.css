@@ -3,22 +3,13 @@
   margin: 0 auto;
 }
 
-/*Nav Bar*/
 
-
-#webname{
-  text-decoration: none;
-  padding-left: 3px;
-  
-}
-
-.nav-left{
+.top{
   font-family: "Satisfy", cursive;
   text-decoration: none;
   color: black;
-  font-size:30px;
-  width:650px;
-  margin-right: 0 auto;
+  font-size:70px;
+  text-align: center;
 }
 
 /*Intro*/
