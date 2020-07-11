@@ -4,12 +4,16 @@
 }
 
 
-.top p{
+.top {
   font-family: "Satisfy", cursive;
   text-decoration: none;
   color: black;
   font-size:70px;
-  justify-content: center;
+  text-align: center;
+}
+
+.top p{
+  display: inline-block;
 }
 
 /*Intro*/
