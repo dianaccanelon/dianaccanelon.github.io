@@ -7,16 +7,16 @@
 
 .nav-container{
   width:600px;
-  margin: 0 auto;
+  
 }
 
-nav-links-right ul{
+nav-links-right a{
   list-style-type: none;
   text-decoration: none;
   float:right;
 }
 
-nav-links-right a{
+nav-links-right li{
   padding: 10px;
   display:inline-block;
   font-size:13px;
