@@ -9,8 +9,14 @@
 #webname{
   text-decoration: none;
   padding-left: 3px;
-  font-family: "reenie beanie";
+  
+}
+
+.nav-left{
+  font-family: "Satisfy", cursive;
+  color: black;
   font-size:30px;
+  width:650px;
   margin-right: 0 auto;
 }
 
@@ -27,6 +33,7 @@
   font-family: "Open Sans";
   font-size:14px;
   justify-content: center;
+  padding-bottom: 30px;
 }
 
 
