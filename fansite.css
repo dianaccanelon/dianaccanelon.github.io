@@ -23,16 +23,16 @@
 #intro p{
   font-family: "Open Sans";
   font-size:12px;
-  float:right;
+  float: right;
   padding-left: 5px;
 }
 
-#intro-2 p{
+/*#intro-2 p{
   font-family: "Open Sans";
   font-size:12px;
   float:right;
   padding-left: 5px;
-}
+}*/
 
 /*Body*/
 
