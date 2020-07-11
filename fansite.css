@@ -11,7 +11,7 @@
   padding-left: 3px;
   font-family: "reenie beanie";
   font-size:30px;
-  justify-content: center;
+  text-align:right;
 }
 
 /*Intro*/
@@ -44,6 +44,7 @@
   font-family: "Open Sans";
   font-size:14px;
   justify-content: center;
+  padding-top: -5px;
   padding-bottom: 30px;
 }
 
