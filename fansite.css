@@ -1,17 +1,13 @@
-.nav-container{
-  width:650px;
-
-}
-
-.body-container{
+.container{
   width:650px;
   margin: 0 auto;
 }
 
 /*Headers*/
 
-.italia{
+#italia{
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
   font-size: 50px;
   padding: 50px;
 }
@@ -19,5 +15,6 @@
 
 .cities .stay .food .history{
   font-family:Arial, Helvetica, sans-serif;
+  font-weight: bold;
   font-size: 20px;
 }
