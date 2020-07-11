@@ -1,13 +1,10 @@
 .container{
-  width:650px;
+  widows: 750px;
   margin: 0 auto;
 }
 
 /*Nav Bar*/
-.nav-container{
-  width:650px;
-  float:left;
-}
+
 
 #webname{
   text-decoration: none;
@@ -25,12 +22,14 @@
 
 #intro p{
   font-family: "Open Sans";
-  font-size:12px;
+  font-size:10px;
+  padding-left: 5px;
 }
 
 #intro-2 p{
   font-family: "Open Sans";
-  font-size:12px;
+  font-size:10px;
+  padding-left: 5px;
 }
 
 /*Body*/
@@ -43,5 +42,5 @@
 
 .info {
   font-family: "Open Sans";
-  font-size:12px;
+  font-size:10px;
 }
