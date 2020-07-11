@@ -22,17 +22,11 @@
 
 #intro p{
   font-family: "Open Sans";
-  font-size:12px;
+  font-size:14px;
   float: right;
   padding-left: 5px;
 }
 
-/*#intro-2 p{
-  font-family: "Open Sans";
-  font-size:12px;
-  float:right;
-  padding-left: 5px;
-}*/
 
 /*Body*/
 
@@ -40,9 +34,10 @@
   font-family:"Raleway";
   font-weight: bold;
   font-size: 22px;
+  position: fixed;
 }
 
 .info {
   font-family: "Open Sans";
-  font-size:12px;
+  font-size:14px;
 }
