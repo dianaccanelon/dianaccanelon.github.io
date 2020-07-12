@@ -9,8 +9,9 @@
   text-decoration: none;
   color: black;
   font-size:70px;
-  justify-content: center;
+  text-align: center;
 }
+
 
 /*Intro*/
 
@@ -47,3 +48,30 @@
   padding-bottom: 30px;
 }
 
+
+@media only screen 
+and (min-device-width : 375px) 
+and (max-device-width : 812px)
+and (-webkit-device-pixel-ratio : 3) {
+
+  .container{
+    width: 300px;
+    margin: 0 auto;
+  }
+
+  * {
+    font-size: 45%;
+
+  }
+  img.responsive{
+    width: 300px;
+
+  }
+  img.responsive{
+    height: auto;
+  }
+
+  
+
+
+}
