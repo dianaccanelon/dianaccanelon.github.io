@@ -9,19 +9,13 @@
   text-decoration: none;
   color: black;
   font-size:70px;
-  justify-content: center;
-  width:650px;
+  text-align:center;
+  
 }
 
 
 /*Intro*/
 
-/*#italia{
-  font-family:"Reenie Beanie";
-  font-size: 85px;
-  float: left;
-  padding-right: 50px;
-}*/
 
 #intro p{
   font-family: "Open Sans";
